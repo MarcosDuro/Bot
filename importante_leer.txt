@@ -1,0 +1,12 @@
+1) Es importante que vean un video en youtube para que aprenda a instalar mongoDB y mongoDB compass en sus maquinas,
+les dejo un video que lo explica muy bien - > https://www.youtube.com/watch?v=kPKwJWr_9TM
+2) Es importante que vean el txt llamado requirement.txt , ahi estan todas las librerias que se ocupan para que 
+el bot pueda funcionar. pip install {libreria}
+3) Crear un bot en telegram y guardar su token.
+4) Ir a my.telegram.org y sacan su api id y api hash.
+5) En el archivo main.py colocan los anteriores datos , api id , api hash y token del bot.
+6) Si ya tienen instalado correctamente mongoDB en sus maquinas , abren una terminal y ponen mongod , al poner mongod se abrira el servidor.
+7) En este paso ya pueden encender el bot, para esto solo tienen que ejecutar el archivo main.py.
+8) Para que tengan permisos de owner o administradores tienen que ir a mongoDB compass y cambiar manualmente la base de datos , como el plan , rol etc.
+
+Bot by: Sin Rol
